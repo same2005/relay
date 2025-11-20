@@ -13,3 +13,7 @@ try:
         time.sleep(2)
 except KeyboardInterrupt:
     GPIO.cleanup()
+2ch relay connections
+Ground 6
+Vcc 2
+Input Gpio 40
